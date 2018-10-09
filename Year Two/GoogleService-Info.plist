@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1095144920786-0nifqq8ptln61dr7g99dgk90tq1n94dv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1095144920786-0nifqq8ptln61dr7g99dgk90tq1n94dv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBqup0afRv0UTjP0_QD5n0DcN3QTbi0GTc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1095144920786</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BenBetts.Year-Two</string>
+	<key>PROJECT_ID</key>
+	<string>year-two</string>
+	<key>STORAGE_BUCKET</key>
+	<string>year-two.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1095144920786:ios:2262466cbb816428</string>
+	<key>DATABASE_URL</key>
+	<string>https://year-two.firebaseio.com</string>
+</dict>
+</plist>
